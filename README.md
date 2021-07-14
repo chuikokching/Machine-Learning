@@ -1,3 +1,3 @@
 # Machine-Learning
 
-Notizen und Learnstoffe
+Notizen und Lernstoffe
