@@ -1,4 +1,3 @@
 # Machine-Learning
 
-Notizen und Lernstoffe
-Code and Document
+Notizen und Lernstoffe, Code, Document
